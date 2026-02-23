@@ -187,7 +187,7 @@ VortexAI includes built-in Ollama support for completely local AI:
 ## 📸 Screenshots
 
 ### AI Chat Interface
-![AI Chat](screenshots/chat.png)
+![AI Chat](https://github.com/M-IT3/VortexAI/blob/main/Img/01.png)
 
 ### Translation Dictionary
 ![Translation](screenshots/translation.png)
@@ -219,16 +219,7 @@ VortexAI includes built-in Ollama support for completely local AI:
 - **Converters**: Custom value converters for UI binding
 - **Services**: Modular service architecture
 
-### Project Structure
-```
-VortexAI/
-├── Models/          # Data models and entities
-├── ViewModels/      # MVVM view models
-├── Views/           # WPF windows and controls
-├── Services/        # Business logic services
-├── Converters/      # XAML value converters
-└── Helpers/         # Utility classes
-```
+
 
 ---
 
@@ -281,9 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/VortexAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/VortexAI/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/M-IT3/VortexAI/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/M-IT3/VortexAI/discussions)
+- **Email**: VortexAI@Arabhd.net
 
 ---
 
@@ -294,4 +285,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
