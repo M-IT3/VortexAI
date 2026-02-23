@@ -67,12 +67,12 @@
 
 ### Prerequisites
 - **Windows 10/11** (64-bit)
-- **.NET 8.0 Runtime** ([Download](https://dotnet.microsoft.com/download/dotnet/8.0))
+- **.NET 8.0 Runtime** ([Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.24-windows-x64-installer))
 - **Internet Connection** (for cloud AI providers)
 
 ### Quick Install
 
-1. **Download** the latest release from [Releases](https://github.com/yourusername/VortexAI/releases)
+1. **Download** the latest release from [Releases](https://github.com/M-IT3/VortexAI/releases)
 2. **Extract** the ZIP file to your preferred location
 3. **Run** `VortexAI.exe`
 4. **Configure** your AI provider in Settings
@@ -202,7 +202,7 @@ VortexAI includes built-in Ollama support for completely local AI:
 ![Ollama](Img/05.png)
 
 ### Quick Actions Management
-![Ollama](Img/05.png)
+![Ollama](Img/07.png)
 ---
 
 ## 🛠️ Technical Details
@@ -287,6 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
