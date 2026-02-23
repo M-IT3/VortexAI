@@ -239,7 +239,7 @@ VortexAI includes built-in Ollama support for completely local AI:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-### Development Setup
+### Development Setup ** Soon ** 
 
 1. Clone the repository
 2. Open `VortexAI.sln` in Visual Studio 2022
@@ -287,6 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
