@@ -187,20 +187,22 @@ VortexAI includes built-in Ollama support for completely local AI:
 ## 📸 Screenshots
 
 ### AI Chat Interface
-![AI Chat](https://github.com/M-IT3/VortexAI/blob/main/Img/01.png)
+![AI Chat](Img/01.png)
 
 ### Translation Dictionary
-![Translation](screenshots/translation.png)
+![Translation](Img/02.png)
 
 ### Smart Notes
-![Notes](screenshots/notes.png)
+![Notes](Img/03.png)
 
 ### Settings & Configuration
-![Settings](screenshots/settings.png)
+![Settings](Img/04.png)
 
 ### Ollama Model Management
-![Ollama](screenshots/ollama.png)
+![Ollama](Img/05.png)
 
+### Quick Actions Management
+![Ollama](Img/05.png)
 ---
 
 ## 🛠️ Technical Details
@@ -285,5 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
