@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![VortexAI Logo](icon.ico)
+<img src="https://github.com/M-IT3/VortexAI/blob/main/logo.png" width="200" />
 
 **A powerful, modern Windows desktop application that brings AI chat, translation, and smart notes to your fingertips.**
 
@@ -77,7 +77,7 @@
 3. **Run** `VortexAI.exe`
 4. **Configure** your AI provider in Settings
 
-### Building from Source
+### Building from Source ** Soon **
 
 ```bash
 # Clone the repository
@@ -294,3 +294,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
