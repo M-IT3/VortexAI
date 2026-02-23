@@ -1,4 +1,4 @@
-# VortexAI - Your Personal AI Assistant
+# VortexAI - Your Agent AI Assistant
 
 <div align="center">
 
@@ -287,6 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
