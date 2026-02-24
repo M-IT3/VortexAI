@@ -202,7 +202,7 @@ VortexAI includes built-in Ollama support for completely local AI:
 ![Ollama](Img/05.png)
 
 ### Quick Actions Management
-![Ollama](Img/07.png)
+![Ollama](Img/08.png)
 ---
 
 ## 🛠️ Technical Details
@@ -287,6 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
